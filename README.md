@@ -9,4 +9,4 @@ For the plugin to work at its best, it is better to disable the default welcome 
 
 Site administration > General > Messaging > Notification settings > look for "Welcome message for new course enrolments" > turn off that switch.
 
-The plugin also has a settings page so that the message header and body can be changed. Variables can be used to make the message more personal.
+The plugin also has a settings page under the local section so that the message header and body can be changed. Variables can be used to make the message more personal.
