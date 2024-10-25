@@ -1,4 +1,4 @@
-# moodle_welcome_message
+# Moodle Welcome Message Plugin
 This plugin will send a customizable welcome message to users upon enrollment. This message will be sent to:
 
 - The user's email (can be changed in the preferences menu on the profile page)
