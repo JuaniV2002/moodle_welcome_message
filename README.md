@@ -12,7 +12,7 @@ A Moodle plugin that sends an email, web notification, and a mobile push notific
 
 1. Clone the repository or download the ZIP file.
 2. Move the plugin folder to the `moodle/local` directory.
-3. Go to the Moodle site administration and complete the installation process.
+3. The installation process will happen automatically after a refresh.
 
 ## Usage
 
